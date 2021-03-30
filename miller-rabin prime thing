@@ -71,3 +71,5 @@ print("List of primes: ");
 for n in range(1,100000000000000):
     if (isPrime(n, k)):
         print(n , end=" ");
+
+#Copyright Jerry Wang 2021 Matthew do not steal
